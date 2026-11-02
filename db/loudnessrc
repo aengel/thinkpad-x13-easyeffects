@@ -1,0 +1,5 @@
+[soe][Loudness#0]
+bypass=false
+inputGain=0
+outputGain=2.5
+volume=3.5

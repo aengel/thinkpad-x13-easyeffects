@@ -1,0 +1,11 @@
+[soe][Exciter#0]
+amount=3.5
+blend=0
+bypass=false
+ceil=16000
+ceilActive=true
+harmonics=7.5
+inputGain=0
+listen=false
+outputGain=0
+scope=4500
